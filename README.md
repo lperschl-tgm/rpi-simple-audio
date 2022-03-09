@@ -27,3 +27,5 @@ gpio=12,13,a5
 audio_pwm_mode=2
 dtoverlay=audremap,pins_12_13
 ```
+
+Then go into raspi-config/system/audio and select the headphones
