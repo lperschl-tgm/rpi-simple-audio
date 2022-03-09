@@ -11,7 +11,7 @@ This is a simple Guide for a Simple Setup
 
 ### Wiring
 
-The Wiring is as simple as connecting the speaker's vcc to a raspi's pwm0 or pwm1 (pwm1=GPIO13 or GPIO19, pwm0= GPIO18 or GPIO12)
+The Wiring is as simple as connecting the speaker's vcc to a raspi's pwm0 or pwm1 (pwm1=GPIO13 or GPIO19, pwm0= GPIO18 or GPIO12) and the Ground to GND
 
 ![Mono Wiring](https://user-images.githubusercontent.com/73284582/157530011-1812c41b-64f2-44ab-bc78-5d3ffaa17012.png)
 
@@ -39,7 +39,7 @@ Then go into raspi-config/system/audio and select the headphones
 
 ### Wiring
 
-The Wiring is as simple as connecting the speaker's vcc to a raspi's pwm0 or pwm1 (pwm1=GPIO13 or GPIO19, pwm0= GPIO18 or GPIO12)
+The Wiring is as simple as connecting the speaker's vcc to a raspi's pwm0 or pwm1 (pwm1=GPIO13 or GPIO19, pwm0= GPIO18 or GPIO12) and the Ground to GND
 Exactly the Same as with Mono, but this time you need one on pwm0 and one on pwm1 (I think at least, could be that you can connect both to one pwm channel)
 
 ![Stereo Wiring](https://user-images.githubusercontent.com/73284582/157531123-badd41e4-79e7-4ce3-b252-cc238dd36d5c.png)
