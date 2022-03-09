@@ -13,7 +13,7 @@ This is a simple Guide for a Simple Setup
 
 The Wiring is as simple as connecting the speaker's vcc to a raspi's pwm0 or pwm1 (pwm1=GPIO13 or GPIO19, pwm0= GPIO18 or GPIO12)
 
-Picture coming soon
+![grafik](https://user-images.githubusercontent.com/73284582/157529915-9ff6f719-a443-4db8-8e40-af5fd440e462.png)
 
 ### Config
 
