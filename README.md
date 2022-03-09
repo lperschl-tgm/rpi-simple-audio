@@ -60,3 +60,7 @@ dtoverlay=audremap,pins_12_19
 ```
 
 Then go into raspi-config/system/audio and select the headphones
+
+## Credits
+
+Credits go to [Jalecko](https://www.youtube.com/channel/UC4Wtx3l6CVbvIr5flwSDB0w) who showed the config in [this video](https://www.youtube.com/watch?v=nXeKEEG_69M)
